@@ -8,7 +8,7 @@ venue: 'IEEE International Symposium on Information Theory'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9834673'
 citation: 'N. Sathyavageeswaran, R. D. Yates, A. D. Sarwate and N. Mandayam, "Privacy Leakage in Discrete-Time Updating Systems," 2022 IEEE International Symposium on Information Theory (ISIT), Espoo, Finland, 2022, pp. 2076-2081, doi: 10.1109/ISIT50566.2022.9834673.'
 ---
-#This paper is about the number 1. The number 2 is left for future work.
+
 
 [Download paper here](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9834673)
 
