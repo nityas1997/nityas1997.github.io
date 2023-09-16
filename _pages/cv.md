@@ -17,14 +17,14 @@ Education
 Research Projects
 ======
 * Privacy Leakage in Discrete-Time Updating Systems
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Studied the tradeoff between privacy and timeliness in discrete time- time systems where a source generates time-stamped packet updates as a Bernoulii process.
+  * Used the maximal leakage metric to quantify privacy loss of the source and the age of information metric to measure timeliness of updates  at the destination.
+  * Analyzed three policies on how the server, which receives time-stamped packets from the source must submit packets to an interested recipient/monitor.
+  * Found optimal server policies (within a given class) to manage age-leakage tradeoff for Bernoulli arrivals.
 
 * REALTIME: Resilient Edge- Cloud Autonomous Learning with Timely Inferences
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  * The project is about developing frameworks for real-time operation of ML based applications that must be resilient to data, user and system changes.
+  * Currently working on creating privacy metrics for real time operation of edge-assisted ML systems.
   
 Skills
 ======
