@@ -14,14 +14,14 @@ Education
 * Bachelor of Engineering in Electrical and Computer Engineering, RV College of Engineering, 2019
 * PhD candidate in Electrical and Computer Engineering, Rutgers University, 2019-present
 
-Work experience
+Research Projects
 ======
-* Summer 2015: Research Assistant
+* Privacy Leakage in Discrete-Time Updating Systems
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
+* REALTIME: Resilient Edge- Cloud Autonomous Learning with Timely Inferences
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
