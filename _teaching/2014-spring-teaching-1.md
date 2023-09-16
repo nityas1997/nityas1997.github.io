@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 1"
 collection: teaching
-type: "Undergraduate course"
+type: "Linear Signals and Systems"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Rutgers University, Electrical and Computer Engineering"
 date: 2014-01-01
